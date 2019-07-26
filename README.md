@@ -32,10 +32,21 @@ tion,i.e., identifying the speaker as well as what is being said.
 
 <br>
 
+![vo1](https://user-images.githubusercontent.com/38176926/61974435-23e3cc00-b004-11e9-8414-f006d172a2e9.JPG)
+<br><br><br>
+<b> GUI </b> 
+<br><br><br>
+![vo7](https://user-images.githubusercontent.com/38176926/61975057-b33daf00-b005-11e9-88a4-97f3c5a2be68.JPG)
+<br><br>
+![vo8](https://user-images.githubusercontent.com/38176926/61975064-b769cc80-b005-11e9-8cc8-da1c1f6f3676.JPG)
 
 
-
-
-
+<br><br><br>
+<b> Instructions to proceed : </b>
+<br>
+<b>
+    1. Get the matlab and clone this project. <br>
+    2. Finally Open "Voice_recognition_using_MATLAB/voice_recog/LoginGUI.m" in this project then you will get the GUI as I have shown          you. <br>
+</b>
 
 
