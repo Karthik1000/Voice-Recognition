@@ -1,4 +1,4 @@
-# Voice_recognition_using_MATLAB
+# Voice_recognition
 <b> Abstract </b><br>
 Speaker Identification is rapidly gaining popularity with the rise of Voice Assistants
 and the like. Personalization of such products often require Speaker Identification.
